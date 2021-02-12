@@ -1,0 +1,141 @@
+[14:42:10.533030] [Import] [info] (th=114033) Importing from /Users/nikolay/Documents/Models/platformer-pack/Easy Animated Enemy Pack - Jan 2019/Animations/Spider/walk x3.fbx
+[14:42:10.581338] [Import] [info] (th=114033) Imported scene tree:
+name: "RootNode"
+
+	name: "HumanArmature"
+	
+		name: "Root"
+		
+			name: "Body"
+			
+				name: "FrontLeg.L"
+				
+					name: "FrontLeg2.L"
+					
+						name: "FrontLeg3.L"
+						
+							name: "FrontLeg3.L_end"
+							
+				name: "MidFrontLeg.L"
+				
+					name: "MidFrontLeg2.L"
+					
+						name: "MidFrontLeg3.L"
+						
+							name: "MidFrontLeg3.L_end"
+							
+				name: "BackLeg.L"
+				
+					name: "BackLeg2.L"
+					
+						name: "BackLeg3.L"
+						
+							name: "BackLeg3.L_end"
+							
+				name: "MidBackLeg.L"
+				
+					name: "MidBackLeg2.L"
+					
+						name: "MidBackLeg3.L"
+						
+							name: "MidBackLeg3.L_end"
+							
+				name: "FrontLeg.R"
+				
+					name: "FrontLeg2.R"
+					
+						name: "FrontLeg3.R"
+						
+							name: "FrontLeg3.R_end"
+							
+				name: "MidFrontLeg.R"
+				
+					name: "MidFrontLeg2.R"
+					
+						name: "MidFrontLeg3.R"
+						
+							name: "MidFrontLeg3.R_end"
+							
+				name: "BackLeg.R"
+				
+					name: "BackLeg2.R"
+					
+						name: "BackLeg3.R"
+						
+							name: "BackLeg3.R_end"
+							
+				name: "MidBackLeg.R"
+				
+					name: "MidBackLeg2.R"
+					
+						name: "MidBackLeg3.R"
+						
+							name: "MidBackLeg3.R_end"
+							
+				name: "Abdomen"
+				
+					name: "Abdomen_end"
+					
+				name: "Thorax"
+				
+					name: "Head"
+					
+						name: "Head_end"
+						
+			name: "PoleTarget.L"
+			
+				name: "PoleTarget.L_end"
+				
+			name: "FrontFoot.L"
+			
+				name: "FrontFoot.L_end"
+				
+			name: "MidFrontFoot.L"
+			
+				name: "MidFrontFoot.L_end"
+				
+			name: "BackFoot.L"
+			
+				name: "BackFoot.L_end"
+				
+			name: "MidBackFoot.L"
+			
+				name: "MidBackFoot.L_end"
+				
+			name: "PoleTarget.R"
+			
+				name: "PoleTarget.R_end"
+				
+			name: "FrontFoot2.R"
+			
+				name: "FrontFoot2.R_end"
+				
+			name: "MidFrontFoot.R"
+			
+				name: "MidFrontFoot.R_end"
+				
+			name: "BackFoot.R"
+			
+				name: "BackFoot.R_end"
+				
+			name: "MidBackFoot.R"
+			
+				name: "MidBackFoot.R_end"
+				
+	name: "Cube"
+	numMeshes: 2
+	 addr: "0x7f91cc03aa00"
+	 name: "Cube"
+	 numVertices: "3850"
+	 numFaces: "1944"
+	
+	 addr: "0x7f91bdc77e00"
+	 name: "Cube"
+	 numVertices: "1536"
+	 numFaces: "768"
+	
+	
+
+[14:42:10.583064] [Import] [info] (th=114033) File loaded successfully
+[14:42:10.583082] [Import] [info] (th=114033) Meshes count: 2
+[14:42:10.583086] [Import] [info] (th=114033) Materials count: 2

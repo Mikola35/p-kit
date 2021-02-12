@@ -1,0 +1,2900 @@
+[15:30:35.876144] [Import] [info] (th=103394) Importing from /Applications/MANU.app/Contents/MacOS/../Resources/Resources/maincharacter.dae
+[15:30:35.896201] [Import] [info] (th=103394) Imported scene tree:
+name: "RootNode"
+
+	name: "Fbx_Root"
+	
+		name: "default"
+		numMeshes: 1
+		 addr: "0x7fa7299ffe00"
+		 name: "defaultMesh"
+		 numVertices: "7437"
+		 numFaces: "2820"
+		
+		
+	name: "mixamorig_Hips"
+	
+		name: "mixamorig_Spine"
+		
+			name: "mixamorig_Spine1"
+			
+				name: "mixamorig_Spine2"
+				
+					name: "mixamorig_Neck"
+					
+						name: "mixamorig_Head"
+						
+							name: "mixamorig_HeadTop_End"
+							
+					name: "mixamorig_LeftShoulder"
+					
+						name: "mixamorig_LeftArm"
+						
+							name: "mixamorig_LeftForeArm"
+							
+								name: "mixamorig_LeftHand"
+								
+									name: "mixamorig_LeftHandThumb1"
+									
+										name: "mixamorig_LeftHandThumb2"
+										
+											name: "mixamorig_LeftHandThumb3"
+											
+												name: "mixamorig_LeftHandThumb4"
+												
+									name: "mixamorig_LeftHandIndex1"
+									
+										name: "mixamorig_LeftHandIndex2"
+										
+											name: "mixamorig_LeftHandIndex3"
+											
+												name: "mixamorig_LeftHandIndex4"
+												
+									name: "mixamorig_LeftHandMiddle1"
+									
+										name: "mixamorig_LeftHandMiddle2"
+										
+											name: "mixamorig_LeftHandMiddle3"
+											
+												name: "mixamorig_LeftHandMiddle4"
+												
+									name: "mixamorig_LeftHandRing1"
+									
+										name: "mixamorig_LeftHandRing2"
+										
+											name: "mixamorig_LeftHandRing3"
+											
+												name: "mixamorig_LeftHandRing4"
+												
+									name: "mixamorig_LeftHandPinky1"
+									
+										name: "mixamorig_LeftHandPinky2"
+										
+											name: "mixamorig_LeftHandPinky3"
+											
+												name: "mixamorig_LeftHandPinky4"
+												
+					name: "mixamorig_RightShoulder"
+					
+						name: "mixamorig_RightArm"
+						
+							name: "mixamorig_RightForeArm"
+							
+								name: "mixamorig_RightHand"
+								
+									name: "mixamorig_RightHandThumb1"
+									
+										name: "mixamorig_RightHandThumb2"
+										
+											name: "mixamorig_RightHandThumb3"
+											
+												name: "mixamorig_RightHandThumb4"
+												
+									name: "mixamorig_RightHandIndex1"
+									
+										name: "mixamorig_RightHandIndex2"
+										
+											name: "mixamorig_RightHandIndex3"
+											
+												name: "mixamorig_RightHandIndex4"
+												
+									name: "mixamorig_RightHandMiddle1"
+									
+										name: "mixamorig_RightHandMiddle2"
+										
+											name: "mixamorig_RightHandMiddle3"
+											
+												name: "mixamorig_RightHandMiddle4"
+												
+									name: "mixamorig_RightHandRing1"
+									
+										name: "mixamorig_RightHandRing2"
+										
+											name: "mixamorig_RightHandRing3"
+											
+												name: "mixamorig_RightHandRing4"
+												
+									name: "mixamorig_RightHandPinky1"
+									
+										name: "mixamorig_RightHandPinky2"
+										
+											name: "mixamorig_RightHandPinky3"
+											
+												name: "mixamorig_RightHandPinky4"
+												
+		name: "mixamorig_LeftUpLeg"
+		
+			name: "mixamorig_LeftLeg"
+			
+				name: "mixamorig_LeftFoot"
+				
+					name: "mixamorig_LeftToeBase"
+					
+						name: "mixamorig_LeftToe_End"
+						
+		name: "mixamorig_RightUpLeg"
+		
+			name: "mixamorig_RightLeg"
+			
+				name: "mixamorig_RightFoot"
+				
+					name: "mixamorig_RightToeBase"
+					
+						name: "mixamorig_RightToe_End"
+						
+
+[15:30:35.896235] [Import] [info] (th=103394) File loaded successfully
+[15:30:35.896239] [Import] [info] (th=103394) Meshes count: 1
+[15:30:35.896241] [Import] [info] (th=103394) Materials count: 1
+[15:30:35.896373] [Import] [info] (th=103394) Textures count (imported): 1
+[15:30:35.943711] [Import] [info] (th=103394) Importing from /Applications/MANU.app/Contents/MacOS/../Resources/Resources/defaultCharacterWalk.dae
+[15:30:35.962189] [Import] [info] (th=103394) Imported scene tree:
+name: "RootNode"
+
+	name: "Fbx_Root"
+	
+		name: "default"
+		numMeshes: 1
+		 addr: "0x7fa72b492c00"
+		 name: "defaultMesh"
+		 numVertices: "7437"
+		 numFaces: "2820"
+		
+		
+	name: "mixamorig_Hips"
+	
+		name: "mixamorig_Spine"
+		
+			name: "mixamorig_Spine1"
+			
+				name: "mixamorig_Spine2"
+				
+					name: "mixamorig_Neck"
+					
+						name: "mixamorig_Head"
+						
+							name: "mixamorig_HeadTop_End"
+							
+					name: "mixamorig_LeftShoulder"
+					
+						name: "mixamorig_LeftArm"
+						
+							name: "mixamorig_LeftForeArm"
+							
+								name: "mixamorig_LeftHand"
+								
+									name: "mixamorig_LeftHandThumb1"
+									
+										name: "mixamorig_LeftHandThumb2"
+										
+											name: "mixamorig_LeftHandThumb3"
+											
+												name: "mixamorig_LeftHandThumb4"
+												
+									name: "mixamorig_LeftHandIndex1"
+									
+										name: "mixamorig_LeftHandIndex2"
+										
+											name: "mixamorig_LeftHandIndex3"
+											
+												name: "mixamorig_LeftHandIndex4"
+												
+									name: "mixamorig_LeftHandMiddle1"
+									
+										name: "mixamorig_LeftHandMiddle2"
+										
+											name: "mixamorig_LeftHandMiddle3"
+											
+												name: "mixamorig_LeftHandMiddle4"
+												
+									name: "mixamorig_LeftHandRing1"
+									
+										name: "mixamorig_LeftHandRing2"
+										
+											name: "mixamorig_LeftHandRing3"
+											
+												name: "mixamorig_LeftHandRing4"
+												
+									name: "mixamorig_LeftHandPinky1"
+									
+										name: "mixamorig_LeftHandPinky2"
+										
+											name: "mixamorig_LeftHandPinky3"
+											
+												name: "mixamorig_LeftHandPinky4"
+												
+					name: "mixamorig_RightShoulder"
+					
+						name: "mixamorig_RightArm"
+						
+							name: "mixamorig_RightForeArm"
+							
+								name: "mixamorig_RightHand"
+								
+									name: "mixamorig_RightHandThumb1"
+									
+										name: "mixamorig_RightHandThumb2"
+										
+											name: "mixamorig_RightHandThumb3"
+											
+												name: "mixamorig_RightHandThumb4"
+												
+									name: "mixamorig_RightHandIndex1"
+									
+										name: "mixamorig_RightHandIndex2"
+										
+											name: "mixamorig_RightHandIndex3"
+											
+												name: "mixamorig_RightHandIndex4"
+												
+									name: "mixamorig_RightHandMiddle1"
+									
+										name: "mixamorig_RightHandMiddle2"
+										
+											name: "mixamorig_RightHandMiddle3"
+											
+												name: "mixamorig_RightHandMiddle4"
+												
+									name: "mixamorig_RightHandRing1"
+									
+										name: "mixamorig_RightHandRing2"
+										
+											name: "mixamorig_RightHandRing3"
+											
+												name: "mixamorig_RightHandRing4"
+												
+									name: "mixamorig_RightHandPinky1"
+									
+										name: "mixamorig_RightHandPinky2"
+										
+											name: "mixamorig_RightHandPinky3"
+											
+												name: "mixamorig_RightHandPinky4"
+												
+		name: "mixamorig_LeftUpLeg"
+		
+			name: "mixamorig_LeftLeg"
+			
+				name: "mixamorig_LeftFoot"
+				
+					name: "mixamorig_LeftToeBase"
+					
+						name: "mixamorig_LeftToe_End"
+						
+		name: "mixamorig_RightUpLeg"
+		
+			name: "mixamorig_RightLeg"
+			
+				name: "mixamorig_RightFoot"
+				
+					name: "mixamorig_RightToeBase"
+					
+						name: "mixamorig_RightToe_End"
+						
+
+[15:30:35.962202] [Import] [info] (th=103394) File loaded successfully
+[15:30:35.962207] [Import] [info] (th=103394) Meshes count: 1
+[15:30:35.962208] [Import] [info] (th=103394) Materials count: 1
+[15:30:35.965789] [Import] [info] (th=103394) Importing from /Applications/MANU.app/Contents/MacOS/../Resources/Resources/defaultCharacterJump.dae
+[15:30:35.972230] [Import] [info] (th=103394) Imported scene tree:
+name: "RootNode"
+numMeshes: 1
+ addr: "0x7fa722c51600"
+ name: ""
+ numVertices: "417"
+ numFaces: "364"
+
+
+	name: "mixamorig_Hips"
+	
+		name: "mixamorig_Spine"
+		
+			name: "mixamorig_Spine1"
+			
+				name: "mixamorig_Spine2"
+				
+					name: "mixamorig_Neck"
+					
+						name: "mixamorig_Head"
+						
+							name: "mixamorig_HeadTop_End"
+							
+					name: "mixamorig_LeftShoulder"
+					
+						name: "mixamorig_LeftArm"
+						
+							name: "mixamorig_LeftForeArm"
+							
+								name: "mixamorig_LeftHand"
+								
+									name: "mixamorig_LeftHandThumb1"
+									
+										name: "mixamorig_LeftHandThumb2"
+										
+											name: "mixamorig_LeftHandThumb3"
+											
+												name: "mixamorig_LeftHandThumb4"
+												
+									name: "mixamorig_LeftHandIndex1"
+									
+										name: "mixamorig_LeftHandIndex2"
+										
+											name: "mixamorig_LeftHandIndex3"
+											
+												name: "mixamorig_LeftHandIndex4"
+												
+									name: "mixamorig_LeftHandMiddle1"
+									
+										name: "mixamorig_LeftHandMiddle2"
+										
+											name: "mixamorig_LeftHandMiddle3"
+											
+												name: "mixamorig_LeftHandMiddle4"
+												
+									name: "mixamorig_LeftHandRing1"
+									
+										name: "mixamorig_LeftHandRing2"
+										
+											name: "mixamorig_LeftHandRing3"
+											
+												name: "mixamorig_LeftHandRing4"
+												
+									name: "mixamorig_LeftHandPinky1"
+									
+										name: "mixamorig_LeftHandPinky2"
+										
+											name: "mixamorig_LeftHandPinky3"
+											
+												name: "mixamorig_LeftHandPinky4"
+												
+					name: "mixamorig_RightShoulder"
+					
+						name: "mixamorig_RightArm"
+						
+							name: "mixamorig_RightForeArm"
+							
+								name: "mixamorig_RightHand"
+								
+									name: "mixamorig_RightHandThumb1"
+									
+										name: "mixamorig_RightHandThumb2"
+										
+											name: "mixamorig_RightHandThumb3"
+											
+												name: "mixamorig_RightHandThumb4"
+												
+									name: "mixamorig_RightHandIndex1"
+									
+										name: "mixamorig_RightHandIndex2"
+										
+											name: "mixamorig_RightHandIndex3"
+											
+												name: "mixamorig_RightHandIndex4"
+												
+									name: "mixamorig_RightHandMiddle1"
+									
+										name: "mixamorig_RightHandMiddle2"
+										
+											name: "mixamorig_RightHandMiddle3"
+											
+												name: "mixamorig_RightHandMiddle4"
+												
+									name: "mixamorig_RightHandRing1"
+									
+										name: "mixamorig_RightHandRing2"
+										
+											name: "mixamorig_RightHandRing3"
+											
+												name: "mixamorig_RightHandRing4"
+												
+									name: "mixamorig_RightHandPinky1"
+									
+										name: "mixamorig_RightHandPinky2"
+										
+											name: "mixamorig_RightHandPinky3"
+											
+												name: "mixamorig_RightHandPinky4"
+												
+		name: "mixamorig_LeftUpLeg"
+		
+			name: "mixamorig_LeftLeg"
+			
+				name: "mixamorig_LeftFoot"
+				
+					name: "mixamorig_LeftToeBase"
+					
+						name: "mixamorig_LeftToe_End"
+						
+		name: "mixamorig_RightUpLeg"
+		
+			name: "mixamorig_RightLeg"
+			
+				name: "mixamorig_RightFoot"
+				
+					name: "mixamorig_RightToeBase"
+					
+						name: "mixamorig_RightToe_End"
+						
+
+[15:30:35.972240] [Import] [info] (th=103394) File loaded successfully
+[15:30:35.972244] [Import] [info] (th=103394) Meshes count: 1
+[15:30:35.972245] [Import] [info] (th=103394) Materials count: 1
+[15:30:35.975528] [Import] [info] (th=103394) Importing from /Applications/MANU.app/Contents/MacOS/../Resources/Resources/defaultCharacterIdle.dae
+[15:30:35.985438] [Import] [info] (th=103394) Imported scene tree:
+name: "RootNode"
+numMeshes: 1
+ addr: "0x7fa72b747000"
+ name: ""
+ numVertices: "415"
+ numFaces: "364"
+
+
+	name: "mixamorig_Hips"
+	
+		name: "mixamorig_Spine"
+		
+			name: "mixamorig_Spine1"
+			
+				name: "mixamorig_Spine2"
+				
+					name: "mixamorig_Neck"
+					
+						name: "mixamorig_Head"
+						
+							name: "mixamorig_HeadTop_End"
+							
+					name: "mixamorig_LeftShoulder"
+					
+						name: "mixamorig_LeftArm"
+						
+							name: "mixamorig_LeftForeArm"
+							
+								name: "mixamorig_LeftHand"
+								
+									name: "mixamorig_LeftHandThumb1"
+									
+										name: "mixamorig_LeftHandThumb2"
+										
+											name: "mixamorig_LeftHandThumb3"
+											
+												name: "mixamorig_LeftHandThumb4"
+												
+									name: "mixamorig_LeftHandIndex1"
+									
+										name: "mixamorig_LeftHandIndex2"
+										
+											name: "mixamorig_LeftHandIndex3"
+											
+												name: "mixamorig_LeftHandIndex4"
+												
+									name: "mixamorig_LeftHandMiddle1"
+									
+										name: "mixamorig_LeftHandMiddle2"
+										
+											name: "mixamorig_LeftHandMiddle3"
+											
+												name: "mixamorig_LeftHandMiddle4"
+												
+									name: "mixamorig_LeftHandRing1"
+									
+										name: "mixamorig_LeftHandRing2"
+										
+											name: "mixamorig_LeftHandRing3"
+											
+												name: "mixamorig_LeftHandRing4"
+												
+									name: "mixamorig_LeftHandPinky1"
+									
+										name: "mixamorig_LeftHandPinky2"
+										
+											name: "mixamorig_LeftHandPinky3"
+											
+												name: "mixamorig_LeftHandPinky4"
+												
+					name: "mixamorig_RightShoulder"
+					
+						name: "mixamorig_RightArm"
+						
+							name: "mixamorig_RightForeArm"
+							
+								name: "mixamorig_RightHand"
+								
+									name: "mixamorig_RightHandThumb1"
+									
+										name: "mixamorig_RightHandThumb2"
+										
+											name: "mixamorig_RightHandThumb3"
+											
+												name: "mixamorig_RightHandThumb4"
+												
+									name: "mixamorig_RightHandIndex1"
+									
+										name: "mixamorig_RightHandIndex2"
+										
+											name: "mixamorig_RightHandIndex3"
+											
+												name: "mixamorig_RightHandIndex4"
+												
+									name: "mixamorig_RightHandMiddle1"
+									
+										name: "mixamorig_RightHandMiddle2"
+										
+											name: "mixamorig_RightHandMiddle3"
+											
+												name: "mixamorig_RightHandMiddle4"
+												
+									name: "mixamorig_RightHandRing1"
+									
+										name: "mixamorig_RightHandRing2"
+										
+											name: "mixamorig_RightHandRing3"
+											
+												name: "mixamorig_RightHandRing4"
+												
+									name: "mixamorig_RightHandPinky1"
+									
+										name: "mixamorig_RightHandPinky2"
+										
+											name: "mixamorig_RightHandPinky3"
+											
+												name: "mixamorig_RightHandPinky4"
+												
+		name: "mixamorig_LeftUpLeg"
+		
+			name: "mixamorig_LeftLeg"
+			
+				name: "mixamorig_LeftFoot"
+				
+					name: "mixamorig_LeftToeBase"
+					
+						name: "mixamorig_LeftToe_End"
+						
+		name: "mixamorig_RightUpLeg"
+		
+			name: "mixamorig_RightLeg"
+			
+				name: "mixamorig_RightFoot"
+				
+					name: "mixamorig_RightToeBase"
+					
+						name: "mixamorig_RightToe_End"
+						
+
+[15:30:35.985448] [Import] [info] (th=103394) File loaded successfully
+[15:30:35.985452] [Import] [info] (th=103394) Meshes count: 1
+[15:30:35.985453] [Import] [info] (th=103394) Materials count: 1
+[15:30:35.989423] [Import] [info] (th=103394) Importing from /Applications/MANU.app/Contents/MacOS/../Resources/Resources/defaultCharacterFallingIdle.dae
+[15:30:36.003593] [Import] [info] (th=103394) Imported scene tree:
+name: "RootNode"
+
+	name: "Circle.002_Circle.006"
+	
+	name: "Circle.002_Circle.006_koja_01.001"
+	numMeshes: 1
+	 addr: "0x7fa72b336600"
+	 name: "Circle.002_Circle.006_koja_01.001Mesh"
+	 numVertices: "3151"
+	 numFaces: "2816"
+	
+	
+	name: "mixamorig_Hips"
+	
+		name: "mixamorig_Spine"
+		
+			name: "mixamorig_Spine1"
+			
+				name: "mixamorig_Spine2"
+				
+					name: "mixamorig_Neck"
+					
+						name: "mixamorig_Head"
+						
+							name: "mixamorig_HeadTop_End"
+							
+					name: "mixamorig_LeftShoulder"
+					
+						name: "mixamorig_LeftArm"
+						
+							name: "mixamorig_LeftForeArm"
+							
+								name: "mixamorig_LeftHand"
+								
+									name: "mixamorig_LeftHandThumb1"
+									
+										name: "mixamorig_LeftHandThumb2"
+										
+											name: "mixamorig_LeftHandThumb3"
+											
+												name: "mixamorig_LeftHandThumb4"
+												
+									name: "mixamorig_LeftHandIndex1"
+									
+										name: "mixamorig_LeftHandIndex2"
+										
+											name: "mixamorig_LeftHandIndex3"
+											
+												name: "mixamorig_LeftHandIndex4"
+												
+									name: "mixamorig_LeftHandMiddle1"
+									
+										name: "mixamorig_LeftHandMiddle2"
+										
+											name: "mixamorig_LeftHandMiddle3"
+											
+												name: "mixamorig_LeftHandMiddle4"
+												
+									name: "mixamorig_LeftHandRing1"
+									
+										name: "mixamorig_LeftHandRing2"
+										
+											name: "mixamorig_LeftHandRing3"
+											
+												name: "mixamorig_LeftHandRing4"
+												
+									name: "mixamorig_LeftHandPinky1"
+									
+										name: "mixamorig_LeftHandPinky2"
+										
+											name: "mixamorig_LeftHandPinky3"
+											
+												name: "mixamorig_LeftHandPinky4"
+												
+					name: "mixamorig_RightShoulder"
+					
+						name: "mixamorig_RightArm"
+						
+							name: "mixamorig_RightForeArm"
+							
+								name: "mixamorig_RightHand"
+								
+									name: "mixamorig_RightHandThumb1"
+									
+										name: "mixamorig_RightHandThumb2"
+										
+											name: "mixamorig_RightHandThumb3"
+											
+												name: "mixamorig_RightHandThumb4"
+												
+									name: "mixamorig_RightHandIndex1"
+									
+										name: "mixamorig_RightHandIndex2"
+										
+											name: "mixamorig_RightHandIndex3"
+											
+												name: "mixamorig_RightHandIndex4"
+												
+									name: "mixamorig_RightHandMiddle1"
+									
+										name: "mixamorig_RightHandMiddle2"
+										
+											name: "mixamorig_RightHandMiddle3"
+											
+												name: "mixamorig_RightHandMiddle4"
+												
+									name: "mixamorig_RightHandRing1"
+									
+										name: "mixamorig_RightHandRing2"
+										
+											name: "mixamorig_RightHandRing3"
+											
+												name: "mixamorig_RightHandRing4"
+												
+									name: "mixamorig_RightHandPinky1"
+									
+										name: "mixamorig_RightHandPinky2"
+										
+											name: "mixamorig_RightHandPinky3"
+											
+												name: "mixamorig_RightHandPinky4"
+												
+		name: "mixamorig_LeftUpLeg"
+		
+			name: "mixamorig_LeftLeg"
+			
+				name: "mixamorig_LeftFoot"
+				
+					name: "mixamorig_LeftToeBase"
+					
+						name: "mixamorig_LeftToe_End"
+						
+		name: "mixamorig_RightUpLeg"
+		
+			name: "mixamorig_RightLeg"
+			
+				name: "mixamorig_RightFoot"
+				
+					name: "mixamorig_RightToeBase"
+					
+						name: "mixamorig_RightToe_End"
+						
+
+[15:30:36.003609] [Import] [info] (th=103394) File loaded successfully
+[15:30:36.003614] [Import] [info] (th=103394) Meshes count: 1
+[15:30:36.003615] [Import] [info] (th=103394) Materials count: 1
+[15:30:36.007235] [Import] [info] (th=103394) Importing from /Applications/MANU.app/Contents/MacOS/../Resources/Resources/defaultCharacterFloating.dae
+[15:30:36.020589] [Import] [info] (th=103394) Imported scene tree:
+name: "RootNode"
+numMeshes: 1
+ addr: "0x7fa72b6cae00"
+ name: ""
+ numVertices: "417"
+ numFaces: "364"
+
+
+	name: "mixamorig_Hips"
+	
+		name: "mixamorig_Spine"
+		
+			name: "mixamorig_Spine1"
+			
+				name: "mixamorig_Spine2"
+				
+					name: "mixamorig_Neck"
+					
+						name: "mixamorig_Head"
+						
+							name: "mixamorig_HeadTop_End"
+							
+					name: "mixamorig_LeftShoulder"
+					
+						name: "mixamorig_LeftArm"
+						
+							name: "mixamorig_LeftForeArm"
+							
+								name: "mixamorig_LeftHand"
+								
+									name: "mixamorig_LeftHandThumb1"
+									
+										name: "mixamorig_LeftHandThumb2"
+										
+											name: "mixamorig_LeftHandThumb3"
+											
+												name: "mixamorig_LeftHandThumb4"
+												
+									name: "mixamorig_LeftHandIndex1"
+									
+										name: "mixamorig_LeftHandIndex2"
+										
+											name: "mixamorig_LeftHandIndex3"
+											
+												name: "mixamorig_LeftHandIndex4"
+												
+									name: "mixamorig_LeftHandMiddle1"
+									
+										name: "mixamorig_LeftHandMiddle2"
+										
+											name: "mixamorig_LeftHandMiddle3"
+											
+												name: "mixamorig_LeftHandMiddle4"
+												
+									name: "mixamorig_LeftHandRing1"
+									
+										name: "mixamorig_LeftHandRing2"
+										
+											name: "mixamorig_LeftHandRing3"
+											
+												name: "mixamorig_LeftHandRing4"
+												
+									name: "mixamorig_LeftHandPinky1"
+									
+										name: "mixamorig_LeftHandPinky2"
+										
+											name: "mixamorig_LeftHandPinky3"
+											
+												name: "mixamorig_LeftHandPinky4"
+												
+					name: "mixamorig_RightShoulder"
+					
+						name: "mixamorig_RightArm"
+						
+							name: "mixamorig_RightForeArm"
+							
+								name: "mixamorig_RightHand"
+								
+									name: "mixamorig_RightHandThumb1"
+									
+										name: "mixamorig_RightHandThumb2"
+										
+											name: "mixamorig_RightHandThumb3"
+											
+												name: "mixamorig_RightHandThumb4"
+												
+									name: "mixamorig_RightHandIndex1"
+									
+										name: "mixamorig_RightHandIndex2"
+										
+											name: "mixamorig_RightHandIndex3"
+											
+												name: "mixamorig_RightHandIndex4"
+												
+									name: "mixamorig_RightHandMiddle1"
+									
+										name: "mixamorig_RightHandMiddle2"
+										
+											name: "mixamorig_RightHandMiddle3"
+											
+												name: "mixamorig_RightHandMiddle4"
+												
+									name: "mixamorig_RightHandRing1"
+									
+										name: "mixamorig_RightHandRing2"
+										
+											name: "mixamorig_RightHandRing3"
+											
+												name: "mixamorig_RightHandRing4"
+												
+									name: "mixamorig_RightHandPinky1"
+									
+										name: "mixamorig_RightHandPinky2"
+										
+											name: "mixamorig_RightHandPinky3"
+											
+												name: "mixamorig_RightHandPinky4"
+												
+		name: "mixamorig_LeftUpLeg"
+		
+			name: "mixamorig_LeftLeg"
+			
+				name: "mixamorig_LeftFoot"
+				
+					name: "mixamorig_LeftToeBase"
+					
+						name: "mixamorig_LeftToe_End"
+						
+		name: "mixamorig_RightUpLeg"
+		
+			name: "mixamorig_RightLeg"
+			
+				name: "mixamorig_RightFoot"
+				
+					name: "mixamorig_RightToeBase"
+					
+						name: "mixamorig_RightToe_End"
+						
+
+[15:30:36.020601] [Import] [info] (th=103394) File loaded successfully
+[15:30:36.020606] [Import] [info] (th=103394) Meshes count: 1
+[15:30:36.020608] [Import] [info] (th=103394) Materials count: 1
+[15:30:36.024547] [Import] [info] (th=103394) Importing from /Applications/MANU.app/Contents/MacOS/../Resources/Resources/defaultCharacterToCrouched.dae
+[15:30:36.031149] [Import] [info] (th=103394) Imported scene tree:
+name: "RootNode"
+numMeshes: 1
+ addr: "0x7fa72b70ec00"
+ name: ""
+ numVertices: "417"
+ numFaces: "364"
+
+
+	name: "mixamorig_Hips"
+	
+		name: "mixamorig_Spine"
+		
+			name: "mixamorig_Spine1"
+			
+				name: "mixamorig_Spine2"
+				
+					name: "mixamorig_Neck"
+					
+						name: "mixamorig_Head"
+						
+							name: "mixamorig_HeadTop_End"
+							
+					name: "mixamorig_LeftShoulder"
+					
+						name: "mixamorig_LeftArm"
+						
+							name: "mixamorig_LeftForeArm"
+							
+								name: "mixamorig_LeftHand"
+								
+									name: "mixamorig_LeftHandThumb1"
+									
+										name: "mixamorig_LeftHandThumb2"
+										
+											name: "mixamorig_LeftHandThumb3"
+											
+												name: "mixamorig_LeftHandThumb4"
+												
+									name: "mixamorig_LeftHandIndex1"
+									
+										name: "mixamorig_LeftHandIndex2"
+										
+											name: "mixamorig_LeftHandIndex3"
+											
+												name: "mixamorig_LeftHandIndex4"
+												
+									name: "mixamorig_LeftHandMiddle1"
+									
+										name: "mixamorig_LeftHandMiddle2"
+										
+											name: "mixamorig_LeftHandMiddle3"
+											
+												name: "mixamorig_LeftHandMiddle4"
+												
+									name: "mixamorig_LeftHandRing1"
+									
+										name: "mixamorig_LeftHandRing2"
+										
+											name: "mixamorig_LeftHandRing3"
+											
+												name: "mixamorig_LeftHandRing4"
+												
+									name: "mixamorig_LeftHandPinky1"
+									
+										name: "mixamorig_LeftHandPinky2"
+										
+											name: "mixamorig_LeftHandPinky3"
+											
+												name: "mixamorig_LeftHandPinky4"
+												
+					name: "mixamorig_RightShoulder"
+					
+						name: "mixamorig_RightArm"
+						
+							name: "mixamorig_RightForeArm"
+							
+								name: "mixamorig_RightHand"
+								
+									name: "mixamorig_RightHandThumb1"
+									
+										name: "mixamorig_RightHandThumb2"
+										
+											name: "mixamorig_RightHandThumb3"
+											
+												name: "mixamorig_RightHandThumb4"
+												
+									name: "mixamorig_RightHandIndex1"
+									
+										name: "mixamorig_RightHandIndex2"
+										
+											name: "mixamorig_RightHandIndex3"
+											
+												name: "mixamorig_RightHandIndex4"
+												
+									name: "mixamorig_RightHandMiddle1"
+									
+										name: "mixamorig_RightHandMiddle2"
+										
+											name: "mixamorig_RightHandMiddle3"
+											
+												name: "mixamorig_RightHandMiddle4"
+												
+									name: "mixamorig_RightHandRing1"
+									
+										name: "mixamorig_RightHandRing2"
+										
+											name: "mixamorig_RightHandRing3"
+											
+												name: "mixamorig_RightHandRing4"
+												
+									name: "mixamorig_RightHandPinky1"
+									
+										name: "mixamorig_RightHandPinky2"
+										
+											name: "mixamorig_RightHandPinky3"
+											
+												name: "mixamorig_RightHandPinky4"
+												
+		name: "mixamorig_LeftUpLeg"
+		
+			name: "mixamorig_LeftLeg"
+			
+				name: "mixamorig_LeftFoot"
+				
+					name: "mixamorig_LeftToeBase"
+					
+						name: "mixamorig_LeftToe_End"
+						
+		name: "mixamorig_RightUpLeg"
+		
+			name: "mixamorig_RightLeg"
+			
+				name: "mixamorig_RightFoot"
+				
+					name: "mixamorig_RightToeBase"
+					
+						name: "mixamorig_RightToe_End"
+						
+
+[15:30:36.031159] [Import] [info] (th=103394) File loaded successfully
+[15:30:36.031163] [Import] [info] (th=103394) Meshes count: 1
+[15:30:36.031165] [Import] [info] (th=103394) Materials count: 1
+[15:30:36.034509] [Import] [info] (th=103394) Importing from /Applications/MANU.app/Contents/MacOS/../Resources/Resources/defaultCharacterToStanding.dae
+[15:30:36.041082] [Import] [info] (th=103394) Imported scene tree:
+name: "RootNode"
+numMeshes: 1
+ addr: "0x7fa722458400"
+ name: ""
+ numVertices: "410"
+ numFaces: "364"
+
+
+	name: "mixamorig_Hips"
+	
+		name: "mixamorig_Spine"
+		
+			name: "mixamorig_Spine1"
+			
+				name: "mixamorig_Spine2"
+				
+					name: "mixamorig_Neck"
+					
+						name: "mixamorig_Head"
+						
+							name: "mixamorig_HeadTop_End"
+							
+					name: "mixamorig_LeftShoulder"
+					
+						name: "mixamorig_LeftArm"
+						
+							name: "mixamorig_LeftForeArm"
+							
+								name: "mixamorig_LeftHand"
+								
+									name: "mixamorig_LeftHandThumb1"
+									
+										name: "mixamorig_LeftHandThumb2"
+										
+											name: "mixamorig_LeftHandThumb3"
+											
+												name: "mixamorig_LeftHandThumb4"
+												
+									name: "mixamorig_LeftHandIndex1"
+									
+										name: "mixamorig_LeftHandIndex2"
+										
+											name: "mixamorig_LeftHandIndex3"
+											
+												name: "mixamorig_LeftHandIndex4"
+												
+									name: "mixamorig_LeftHandMiddle1"
+									
+										name: "mixamorig_LeftHandMiddle2"
+										
+											name: "mixamorig_LeftHandMiddle3"
+											
+												name: "mixamorig_LeftHandMiddle4"
+												
+									name: "mixamorig_LeftHandRing1"
+									
+										name: "mixamorig_LeftHandRing2"
+										
+											name: "mixamorig_LeftHandRing3"
+											
+												name: "mixamorig_LeftHandRing4"
+												
+									name: "mixamorig_LeftHandPinky1"
+									
+										name: "mixamorig_LeftHandPinky2"
+										
+											name: "mixamorig_LeftHandPinky3"
+											
+												name: "mixamorig_LeftHandPinky4"
+												
+					name: "mixamorig_RightShoulder"
+					
+						name: "mixamorig_RightArm"
+						
+							name: "mixamorig_RightForeArm"
+							
+								name: "mixamorig_RightHand"
+								
+									name: "mixamorig_RightHandThumb1"
+									
+										name: "mixamorig_RightHandThumb2"
+										
+											name: "mixamorig_RightHandThumb3"
+											
+												name: "mixamorig_RightHandThumb4"
+												
+									name: "mixamorig_RightHandIndex1"
+									
+										name: "mixamorig_RightHandIndex2"
+										
+											name: "mixamorig_RightHandIndex3"
+											
+												name: "mixamorig_RightHandIndex4"
+												
+									name: "mixamorig_RightHandMiddle1"
+									
+										name: "mixamorig_RightHandMiddle2"
+										
+											name: "mixamorig_RightHandMiddle3"
+											
+												name: "mixamorig_RightHandMiddle4"
+												
+									name: "mixamorig_RightHandRing1"
+									
+										name: "mixamorig_RightHandRing2"
+										
+											name: "mixamorig_RightHandRing3"
+											
+												name: "mixamorig_RightHandRing4"
+												
+									name: "mixamorig_RightHandPinky1"
+									
+										name: "mixamorig_RightHandPinky2"
+										
+											name: "mixamorig_RightHandPinky3"
+											
+												name: "mixamorig_RightHandPinky4"
+												
+		name: "mixamorig_LeftUpLeg"
+		
+			name: "mixamorig_LeftLeg"
+			
+				name: "mixamorig_LeftFoot"
+				
+					name: "mixamorig_LeftToeBase"
+					
+						name: "mixamorig_LeftToe_End"
+						
+		name: "mixamorig_RightUpLeg"
+		
+			name: "mixamorig_RightLeg"
+			
+				name: "mixamorig_RightFoot"
+				
+					name: "mixamorig_RightToeBase"
+					
+						name: "mixamorig_RightToe_End"
+						
+
+[15:30:36.041093] [Import] [info] (th=103394) File loaded successfully
+[15:30:36.041097] [Import] [info] (th=103394) Meshes count: 1
+[15:30:36.041099] [Import] [info] (th=103394) Materials count: 1
+[15:30:36.044531] [Import] [info] (th=103394) Importing from /Applications/MANU.app/Contents/MacOS/../Resources/Resources/defaultCharacterCrouchIdle.dae
+[15:30:36.055813] [Import] [info] (th=103394) Imported scene tree:
+name: "RootNode"
+numMeshes: 1
+ addr: "0x7fa72b24bc00"
+ name: ""
+ numVertices: "410"
+ numFaces: "364"
+
+
+	name: "mixamorig_Hips"
+	
+		name: "mixamorig_Spine"
+		
+			name: "mixamorig_Spine1"
+			
+				name: "mixamorig_Spine2"
+				
+					name: "mixamorig_Neck"
+					
+						name: "mixamorig_Head"
+						
+							name: "mixamorig_HeadTop_End"
+							
+					name: "mixamorig_LeftShoulder"
+					
+						name: "mixamorig_LeftArm"
+						
+							name: "mixamorig_LeftForeArm"
+							
+								name: "mixamorig_LeftHand"
+								
+									name: "mixamorig_LeftHandThumb1"
+									
+										name: "mixamorig_LeftHandThumb2"
+										
+											name: "mixamorig_LeftHandThumb3"
+											
+												name: "mixamorig_LeftHandThumb4"
+												
+									name: "mixamorig_LeftHandIndex1"
+									
+										name: "mixamorig_LeftHandIndex2"
+										
+											name: "mixamorig_LeftHandIndex3"
+											
+												name: "mixamorig_LeftHandIndex4"
+												
+									name: "mixamorig_LeftHandMiddle1"
+									
+										name: "mixamorig_LeftHandMiddle2"
+										
+											name: "mixamorig_LeftHandMiddle3"
+											
+												name: "mixamorig_LeftHandMiddle4"
+												
+									name: "mixamorig_LeftHandRing1"
+									
+										name: "mixamorig_LeftHandRing2"
+										
+											name: "mixamorig_LeftHandRing3"
+											
+												name: "mixamorig_LeftHandRing4"
+												
+									name: "mixamorig_LeftHandPinky1"
+									
+										name: "mixamorig_LeftHandPinky2"
+										
+											name: "mixamorig_LeftHandPinky3"
+											
+												name: "mixamorig_LeftHandPinky4"
+												
+					name: "mixamorig_RightShoulder"
+					
+						name: "mixamorig_RightArm"
+						
+							name: "mixamorig_RightForeArm"
+							
+								name: "mixamorig_RightHand"
+								
+									name: "mixamorig_RightHandThumb1"
+									
+										name: "mixamorig_RightHandThumb2"
+										
+											name: "mixamorig_RightHandThumb3"
+											
+												name: "mixamorig_RightHandThumb4"
+												
+									name: "mixamorig_RightHandIndex1"
+									
+										name: "mixamorig_RightHandIndex2"
+										
+											name: "mixamorig_RightHandIndex3"
+											
+												name: "mixamorig_RightHandIndex4"
+												
+									name: "mixamorig_RightHandMiddle1"
+									
+										name: "mixamorig_RightHandMiddle2"
+										
+											name: "mixamorig_RightHandMiddle3"
+											
+												name: "mixamorig_RightHandMiddle4"
+												
+									name: "mixamorig_RightHandRing1"
+									
+										name: "mixamorig_RightHandRing2"
+										
+											name: "mixamorig_RightHandRing3"
+											
+												name: "mixamorig_RightHandRing4"
+												
+									name: "mixamorig_RightHandPinky1"
+									
+										name: "mixamorig_RightHandPinky2"
+										
+											name: "mixamorig_RightHandPinky3"
+											
+												name: "mixamorig_RightHandPinky4"
+												
+		name: "mixamorig_LeftUpLeg"
+		
+			name: "mixamorig_LeftLeg"
+			
+				name: "mixamorig_LeftFoot"
+				
+					name: "mixamorig_LeftToeBase"
+					
+						name: "mixamorig_LeftToe_End"
+						
+		name: "mixamorig_RightUpLeg"
+		
+			name: "mixamorig_RightLeg"
+			
+				name: "mixamorig_RightFoot"
+				
+					name: "mixamorig_RightToeBase"
+					
+						name: "mixamorig_RightToe_End"
+						
+
+[15:30:36.055824] [Import] [info] (th=103394) File loaded successfully
+[15:30:36.055828] [Import] [info] (th=103394) Meshes count: 1
+[15:30:36.055830] [Import] [info] (th=103394) Materials count: 1
+[15:30:36.059966] [Import] [info] (th=103394) Importing from /Applications/MANU.app/Contents/MacOS/../Resources/Resources/defaultCharacterCrouchWalk.dae
+[15:30:36.068445] [Import] [info] (th=103394) Imported scene tree:
+name: "RootNode"
+numMeshes: 1
+ addr: "0x7fa723c7be00"
+ name: ""
+ numVertices: "417"
+ numFaces: "364"
+
+
+	name: "mixamorig_Hips"
+	
+		name: "mixamorig_Spine"
+		
+			name: "mixamorig_Spine1"
+			
+				name: "mixamorig_Spine2"
+				
+					name: "mixamorig_Neck"
+					
+						name: "mixamorig_Head"
+						
+							name: "mixamorig_HeadTop_End"
+							
+					name: "mixamorig_LeftShoulder"
+					
+						name: "mixamorig_LeftArm"
+						
+							name: "mixamorig_LeftForeArm"
+							
+								name: "mixamorig_LeftHand"
+								
+									name: "mixamorig_LeftHandThumb1"
+									
+										name: "mixamorig_LeftHandThumb2"
+										
+											name: "mixamorig_LeftHandThumb3"
+											
+												name: "mixamorig_LeftHandThumb4"
+												
+									name: "mixamorig_LeftHandIndex1"
+									
+										name: "mixamorig_LeftHandIndex2"
+										
+											name: "mixamorig_LeftHandIndex3"
+											
+												name: "mixamorig_LeftHandIndex4"
+												
+									name: "mixamorig_LeftHandMiddle1"
+									
+										name: "mixamorig_LeftHandMiddle2"
+										
+											name: "mixamorig_LeftHandMiddle3"
+											
+												name: "mixamorig_LeftHandMiddle4"
+												
+									name: "mixamorig_LeftHandRing1"
+									
+										name: "mixamorig_LeftHandRing2"
+										
+											name: "mixamorig_LeftHandRing3"
+											
+												name: "mixamorig_LeftHandRing4"
+												
+									name: "mixamorig_LeftHandPinky1"
+									
+										name: "mixamorig_LeftHandPinky2"
+										
+											name: "mixamorig_LeftHandPinky3"
+											
+												name: "mixamorig_LeftHandPinky4"
+												
+					name: "mixamorig_RightShoulder"
+					
+						name: "mixamorig_RightArm"
+						
+							name: "mixamorig_RightForeArm"
+							
+								name: "mixamorig_RightHand"
+								
+									name: "mixamorig_RightHandThumb1"
+									
+										name: "mixamorig_RightHandThumb2"
+										
+											name: "mixamorig_RightHandThumb3"
+											
+												name: "mixamorig_RightHandThumb4"
+												
+									name: "mixamorig_RightHandIndex1"
+									
+										name: "mixamorig_RightHandIndex2"
+										
+											name: "mixamorig_RightHandIndex3"
+											
+												name: "mixamorig_RightHandIndex4"
+												
+									name: "mixamorig_RightHandMiddle1"
+									
+										name: "mixamorig_RightHandMiddle2"
+										
+											name: "mixamorig_RightHandMiddle3"
+											
+												name: "mixamorig_RightHandMiddle4"
+												
+									name: "mixamorig_RightHandRing1"
+									
+										name: "mixamorig_RightHandRing2"
+										
+											name: "mixamorig_RightHandRing3"
+											
+												name: "mixamorig_RightHandRing4"
+												
+									name: "mixamorig_RightHandPinky1"
+									
+										name: "mixamorig_RightHandPinky2"
+										
+											name: "mixamorig_RightHandPinky3"
+											
+												name: "mixamorig_RightHandPinky4"
+												
+		name: "mixamorig_LeftUpLeg"
+		
+			name: "mixamorig_LeftLeg"
+			
+				name: "mixamorig_LeftFoot"
+				
+					name: "mixamorig_LeftToeBase"
+					
+						name: "mixamorig_LeftToe_End"
+						
+		name: "mixamorig_RightUpLeg"
+		
+			name: "mixamorig_RightLeg"
+			
+				name: "mixamorig_RightFoot"
+				
+					name: "mixamorig_RightToeBase"
+					
+						name: "mixamorig_RightToe_End"
+						
+
+[15:30:36.068463] [Import] [info] (th=103394) File loaded successfully
+[15:30:36.068468] [Import] [info] (th=103394) Meshes count: 1
+[15:30:36.068469] [Import] [info] (th=103394) Materials count: 1
+[15:30:36.072257] [Import] [info] (th=103394) Importing from /Applications/MANU.app/Contents/MacOS/../Resources/Resources/defaultCharacterWallHangIdle.dae
+[15:30:36.081610] [Import] [info] (th=103394) Imported scene tree:
+name: "RootNode"
+numMeshes: 1
+ addr: "0x7fa72a2b2a00"
+ name: ""
+ numVertices: "417"
+ numFaces: "364"
+
+
+	name: "mixamorig_Hips"
+	
+		name: "mixamorig_Spine"
+		
+			name: "mixamorig_Spine1"
+			
+				name: "mixamorig_Spine2"
+				
+					name: "mixamorig_Neck"
+					
+						name: "mixamorig_Head"
+						
+							name: "mixamorig_HeadTop_End"
+							
+					name: "mixamorig_LeftShoulder"
+					
+						name: "mixamorig_LeftArm"
+						
+							name: "mixamorig_LeftForeArm"
+							
+								name: "mixamorig_LeftHand"
+								
+									name: "mixamorig_LeftHandThumb1"
+									
+										name: "mixamorig_LeftHandThumb2"
+										
+											name: "mixamorig_LeftHandThumb3"
+											
+												name: "mixamorig_LeftHandThumb4"
+												
+									name: "mixamorig_LeftHandIndex1"
+									
+										name: "mixamorig_LeftHandIndex2"
+										
+											name: "mixamorig_LeftHandIndex3"
+											
+												name: "mixamorig_LeftHandIndex4"
+												
+									name: "mixamorig_LeftHandMiddle1"
+									
+										name: "mixamorig_LeftHandMiddle2"
+										
+											name: "mixamorig_LeftHandMiddle3"
+											
+												name: "mixamorig_LeftHandMiddle4"
+												
+									name: "mixamorig_LeftHandRing1"
+									
+										name: "mixamorig_LeftHandRing2"
+										
+											name: "mixamorig_LeftHandRing3"
+											
+												name: "mixamorig_LeftHandRing4"
+												
+									name: "mixamorig_LeftHandPinky1"
+									
+										name: "mixamorig_LeftHandPinky2"
+										
+											name: "mixamorig_LeftHandPinky3"
+											
+												name: "mixamorig_LeftHandPinky4"
+												
+					name: "mixamorig_RightShoulder"
+					
+						name: "mixamorig_RightArm"
+						
+							name: "mixamorig_RightForeArm"
+							
+								name: "mixamorig_RightHand"
+								
+									name: "mixamorig_RightHandThumb1"
+									
+										name: "mixamorig_RightHandThumb2"
+										
+											name: "mixamorig_RightHandThumb3"
+											
+												name: "mixamorig_RightHandThumb4"
+												
+									name: "mixamorig_RightHandIndex1"
+									
+										name: "mixamorig_RightHandIndex2"
+										
+											name: "mixamorig_RightHandIndex3"
+											
+												name: "mixamorig_RightHandIndex4"
+												
+									name: "mixamorig_RightHandMiddle1"
+									
+										name: "mixamorig_RightHandMiddle2"
+										
+											name: "mixamorig_RightHandMiddle3"
+											
+												name: "mixamorig_RightHandMiddle4"
+												
+									name: "mixamorig_RightHandRing1"
+									
+										name: "mixamorig_RightHandRing2"
+										
+											name: "mixamorig_RightHandRing3"
+											
+												name: "mixamorig_RightHandRing4"
+												
+									name: "mixamorig_RightHandPinky1"
+									
+										name: "mixamorig_RightHandPinky2"
+										
+											name: "mixamorig_RightHandPinky3"
+											
+												name: "mixamorig_RightHandPinky4"
+												
+		name: "mixamorig_LeftUpLeg"
+		
+			name: "mixamorig_LeftLeg"
+			
+				name: "mixamorig_LeftFoot"
+				
+					name: "mixamorig_LeftToeBase"
+					
+						name: "mixamorig_LeftToe_End"
+						
+		name: "mixamorig_RightUpLeg"
+		
+			name: "mixamorig_RightLeg"
+			
+				name: "mixamorig_RightFoot"
+				
+					name: "mixamorig_RightToeBase"
+					
+						name: "mixamorig_RightToe_End"
+						
+
+[15:30:36.081620] [Import] [info] (th=103394) File loaded successfully
+[15:30:36.081624] [Import] [info] (th=103394) Meshes count: 1
+[15:30:36.081625] [Import] [info] (th=103394) Materials count: 1
+[15:30:36.085997] [Import] [info] (th=103394) Importing from /Applications/MANU.app/Contents/MacOS/../Resources/Resources/defaultCharacterWallJumpUp.dae
+[15:30:36.093621] [Import] [info] (th=103394) Imported scene tree:
+name: "RootNode"
+numMeshes: 1
+ addr: "0x7fa727b24e00"
+ name: ""
+ numVertices: "417"
+ numFaces: "364"
+
+
+	name: "mixamorig_Hips"
+	
+		name: "mixamorig_Spine"
+		
+			name: "mixamorig_Spine1"
+			
+				name: "mixamorig_Spine2"
+				
+					name: "mixamorig_Neck"
+					
+						name: "mixamorig_Head"
+						
+							name: "mixamorig_HeadTop_End"
+							
+					name: "mixamorig_LeftShoulder"
+					
+						name: "mixamorig_LeftArm"
+						
+							name: "mixamorig_LeftForeArm"
+							
+								name: "mixamorig_LeftHand"
+								
+									name: "mixamorig_LeftHandThumb1"
+									
+										name: "mixamorig_LeftHandThumb2"
+										
+											name: "mixamorig_LeftHandThumb3"
+											
+												name: "mixamorig_LeftHandThumb4"
+												
+									name: "mixamorig_LeftHandIndex1"
+									
+										name: "mixamorig_LeftHandIndex2"
+										
+											name: "mixamorig_LeftHandIndex3"
+											
+												name: "mixamorig_LeftHandIndex4"
+												
+									name: "mixamorig_LeftHandMiddle1"
+									
+										name: "mixamorig_LeftHandMiddle2"
+										
+											name: "mixamorig_LeftHandMiddle3"
+											
+												name: "mixamorig_LeftHandMiddle4"
+												
+									name: "mixamorig_LeftHandRing1"
+									
+										name: "mixamorig_LeftHandRing2"
+										
+											name: "mixamorig_LeftHandRing3"
+											
+												name: "mixamorig_LeftHandRing4"
+												
+									name: "mixamorig_LeftHandPinky1"
+									
+										name: "mixamorig_LeftHandPinky2"
+										
+											name: "mixamorig_LeftHandPinky3"
+											
+												name: "mixamorig_LeftHandPinky4"
+												
+					name: "mixamorig_RightShoulder"
+					
+						name: "mixamorig_RightArm"
+						
+							name: "mixamorig_RightForeArm"
+							
+								name: "mixamorig_RightHand"
+								
+									name: "mixamorig_RightHandThumb1"
+									
+										name: "mixamorig_RightHandThumb2"
+										
+											name: "mixamorig_RightHandThumb3"
+											
+												name: "mixamorig_RightHandThumb4"
+												
+									name: "mixamorig_RightHandIndex1"
+									
+										name: "mixamorig_RightHandIndex2"
+										
+											name: "mixamorig_RightHandIndex3"
+											
+												name: "mixamorig_RightHandIndex4"
+												
+									name: "mixamorig_RightHandMiddle1"
+									
+										name: "mixamorig_RightHandMiddle2"
+										
+											name: "mixamorig_RightHandMiddle3"
+											
+												name: "mixamorig_RightHandMiddle4"
+												
+									name: "mixamorig_RightHandRing1"
+									
+										name: "mixamorig_RightHandRing2"
+										
+											name: "mixamorig_RightHandRing3"
+											
+												name: "mixamorig_RightHandRing4"
+												
+									name: "mixamorig_RightHandPinky1"
+									
+										name: "mixamorig_RightHandPinky2"
+										
+											name: "mixamorig_RightHandPinky3"
+											
+												name: "mixamorig_RightHandPinky4"
+												
+		name: "mixamorig_LeftUpLeg"
+		
+			name: "mixamorig_LeftLeg"
+			
+				name: "mixamorig_LeftFoot"
+				
+					name: "mixamorig_LeftToeBase"
+					
+						name: "mixamorig_LeftToe_End"
+						
+		name: "mixamorig_RightUpLeg"
+		
+			name: "mixamorig_RightLeg"
+			
+				name: "mixamorig_RightFoot"
+				
+					name: "mixamorig_RightToeBase"
+					
+						name: "mixamorig_RightToe_End"
+						
+
+[15:30:36.093638] [Import] [info] (th=103394) File loaded successfully
+[15:30:36.093642] [Import] [info] (th=103394) Meshes count: 1
+[15:30:36.093643] [Import] [info] (th=103394) Materials count: 1
+[15:30:36.097301] [Import] [info] (th=103394) Importing from /Applications/MANU.app/Contents/MacOS/../Resources/Resources/defaultCharacterFrontFlip.dae
+[15:30:36.104243] [Import] [info] (th=103394) Imported scene tree:
+name: "RootNode"
+numMeshes: 1
+ addr: "0x7fa723c4a000"
+ name: ""
+ numVertices: "417"
+ numFaces: "364"
+
+
+	name: "mixamorig_Hips"
+	
+		name: "mixamorig_Spine"
+		
+			name: "mixamorig_Spine1"
+			
+				name: "mixamorig_Spine2"
+				
+					name: "mixamorig_Neck"
+					
+						name: "mixamorig_Head"
+						
+							name: "mixamorig_HeadTop_End"
+							
+					name: "mixamorig_LeftShoulder"
+					
+						name: "mixamorig_LeftArm"
+						
+							name: "mixamorig_LeftForeArm"
+							
+								name: "mixamorig_LeftHand"
+								
+									name: "mixamorig_LeftHandThumb1"
+									
+										name: "mixamorig_LeftHandThumb2"
+										
+											name: "mixamorig_LeftHandThumb3"
+											
+												name: "mixamorig_LeftHandThumb4"
+												
+									name: "mixamorig_LeftHandIndex1"
+									
+										name: "mixamorig_LeftHandIndex2"
+										
+											name: "mixamorig_LeftHandIndex3"
+											
+												name: "mixamorig_LeftHandIndex4"
+												
+									name: "mixamorig_LeftHandMiddle1"
+									
+										name: "mixamorig_LeftHandMiddle2"
+										
+											name: "mixamorig_LeftHandMiddle3"
+											
+												name: "mixamorig_LeftHandMiddle4"
+												
+									name: "mixamorig_LeftHandRing1"
+									
+										name: "mixamorig_LeftHandRing2"
+										
+											name: "mixamorig_LeftHandRing3"
+											
+												name: "mixamorig_LeftHandRing4"
+												
+									name: "mixamorig_LeftHandPinky1"
+									
+										name: "mixamorig_LeftHandPinky2"
+										
+											name: "mixamorig_LeftHandPinky3"
+											
+												name: "mixamorig_LeftHandPinky4"
+												
+					name: "mixamorig_RightShoulder"
+					
+						name: "mixamorig_RightArm"
+						
+							name: "mixamorig_RightForeArm"
+							
+								name: "mixamorig_RightHand"
+								
+									name: "mixamorig_RightHandThumb1"
+									
+										name: "mixamorig_RightHandThumb2"
+										
+											name: "mixamorig_RightHandThumb3"
+											
+												name: "mixamorig_RightHandThumb4"
+												
+									name: "mixamorig_RightHandIndex1"
+									
+										name: "mixamorig_RightHandIndex2"
+										
+											name: "mixamorig_RightHandIndex3"
+											
+												name: "mixamorig_RightHandIndex4"
+												
+									name: "mixamorig_RightHandMiddle1"
+									
+										name: "mixamorig_RightHandMiddle2"
+										
+											name: "mixamorig_RightHandMiddle3"
+											
+												name: "mixamorig_RightHandMiddle4"
+												
+									name: "mixamorig_RightHandRing1"
+									
+										name: "mixamorig_RightHandRing2"
+										
+											name: "mixamorig_RightHandRing3"
+											
+												name: "mixamorig_RightHandRing4"
+												
+									name: "mixamorig_RightHandPinky1"
+									
+										name: "mixamorig_RightHandPinky2"
+										
+											name: "mixamorig_RightHandPinky3"
+											
+												name: "mixamorig_RightHandPinky4"
+												
+		name: "mixamorig_LeftUpLeg"
+		
+			name: "mixamorig_LeftLeg"
+			
+				name: "mixamorig_LeftFoot"
+				
+					name: "mixamorig_LeftToeBase"
+					
+						name: "mixamorig_LeftToe_End"
+						
+		name: "mixamorig_RightUpLeg"
+		
+			name: "mixamorig_RightLeg"
+			
+				name: "mixamorig_RightFoot"
+				
+					name: "mixamorig_RightToeBase"
+					
+						name: "mixamorig_RightToe_End"
+						
+
+[15:30:36.104256] [Import] [info] (th=103394) File loaded successfully
+[15:30:36.104261] [Import] [info] (th=103394) Meshes count: 1
+[15:30:36.104262] [Import] [info] (th=103394) Materials count: 1
+[15:30:36.107952] [Import] [info] (th=103394) Importing from /Applications/MANU.app/Contents/MacOS/../Resources/Resources/defaultCharacterToCrouchedForward.dae
+[15:30:36.126336] [Import] [info] (th=103394) Imported scene tree:
+name: "RootNode"
+
+	name: "Fbx_Root"
+	
+		name: "default"
+		numMeshes: 1
+		 addr: "0x7fa729c43c00"
+		 name: "defaultMesh"
+		 numVertices: "7437"
+		 numFaces: "2820"
+		
+		
+	name: "mixamorig_Hips"
+	
+		name: "mixamorig_Spine"
+		
+			name: "mixamorig_Spine1"
+			
+				name: "mixamorig_Spine2"
+				
+					name: "mixamorig_Neck"
+					
+						name: "mixamorig_Head"
+						
+							name: "mixamorig_HeadTop_End"
+							
+					name: "mixamorig_LeftShoulder"
+					
+						name: "mixamorig_LeftArm"
+						
+							name: "mixamorig_LeftForeArm"
+							
+								name: "mixamorig_LeftHand"
+								
+									name: "mixamorig_LeftHandThumb1"
+									
+										name: "mixamorig_LeftHandThumb2"
+										
+											name: "mixamorig_LeftHandThumb3"
+											
+												name: "mixamorig_LeftHandThumb4"
+												
+									name: "mixamorig_LeftHandIndex1"
+									
+										name: "mixamorig_LeftHandIndex2"
+										
+											name: "mixamorig_LeftHandIndex3"
+											
+												name: "mixamorig_LeftHandIndex4"
+												
+									name: "mixamorig_LeftHandMiddle1"
+									
+										name: "mixamorig_LeftHandMiddle2"
+										
+											name: "mixamorig_LeftHandMiddle3"
+											
+												name: "mixamorig_LeftHandMiddle4"
+												
+									name: "mixamorig_LeftHandRing1"
+									
+										name: "mixamorig_LeftHandRing2"
+										
+											name: "mixamorig_LeftHandRing3"
+											
+												name: "mixamorig_LeftHandRing4"
+												
+									name: "mixamorig_LeftHandPinky1"
+									
+										name: "mixamorig_LeftHandPinky2"
+										
+											name: "mixamorig_LeftHandPinky3"
+											
+												name: "mixamorig_LeftHandPinky4"
+												
+					name: "mixamorig_RightShoulder"
+					
+						name: "mixamorig_RightArm"
+						
+							name: "mixamorig_RightForeArm"
+							
+								name: "mixamorig_RightHand"
+								
+									name: "mixamorig_RightHandThumb1"
+									
+										name: "mixamorig_RightHandThumb2"
+										
+											name: "mixamorig_RightHandThumb3"
+											
+												name: "mixamorig_RightHandThumb4"
+												
+									name: "mixamorig_RightHandIndex1"
+									
+										name: "mixamorig_RightHandIndex2"
+										
+											name: "mixamorig_RightHandIndex3"
+											
+												name: "mixamorig_RightHandIndex4"
+												
+									name: "mixamorig_RightHandMiddle1"
+									
+										name: "mixamorig_RightHandMiddle2"
+										
+											name: "mixamorig_RightHandMiddle3"
+											
+												name: "mixamorig_RightHandMiddle4"
+												
+									name: "mixamorig_RightHandRing1"
+									
+										name: "mixamorig_RightHandRing2"
+										
+											name: "mixamorig_RightHandRing3"
+											
+												name: "mixamorig_RightHandRing4"
+												
+									name: "mixamorig_RightHandPinky1"
+									
+										name: "mixamorig_RightHandPinky2"
+										
+											name: "mixamorig_RightHandPinky3"
+											
+												name: "mixamorig_RightHandPinky4"
+												
+		name: "mixamorig_LeftUpLeg"
+		
+			name: "mixamorig_LeftLeg"
+			
+				name: "mixamorig_LeftFoot"
+				
+					name: "mixamorig_LeftToeBase"
+					
+						name: "mixamorig_LeftToe_End"
+						
+		name: "mixamorig_RightUpLeg"
+		
+			name: "mixamorig_RightLeg"
+			
+				name: "mixamorig_RightFoot"
+				
+					name: "mixamorig_RightToeBase"
+					
+						name: "mixamorig_RightToe_End"
+						
+
+[15:30:36.126400] [Import] [info] (th=103394) File loaded successfully
+[15:30:36.126406] [Import] [info] (th=103394) Meshes count: 1
+[15:30:36.126408] [Import] [info] (th=103394) Materials count: 1
+[15:30:36.129915] [Import] [info] (th=103394) Importing from /Applications/MANU.app/Contents/MacOS/../Resources/Resources/defaultCharacterToStandingForward.dae
+[15:30:36.147273] [Import] [info] (th=103394) Imported scene tree:
+name: "RootNode"
+
+	name: "Fbx_Root"
+	
+		name: "default"
+		numMeshes: 1
+		 addr: "0x7fa723c34400"
+		 name: "defaultMesh"
+		 numVertices: "7437"
+		 numFaces: "2820"
+		
+		
+	name: "mixamorig_Hips"
+	
+		name: "mixamorig_Spine"
+		
+			name: "mixamorig_Spine1"
+			
+				name: "mixamorig_Spine2"
+				
+					name: "mixamorig_Neck"
+					
+						name: "mixamorig_Head"
+						
+							name: "mixamorig_HeadTop_End"
+							
+					name: "mixamorig_LeftShoulder"
+					
+						name: "mixamorig_LeftArm"
+						
+							name: "mixamorig_LeftForeArm"
+							
+								name: "mixamorig_LeftHand"
+								
+									name: "mixamorig_LeftHandThumb1"
+									
+										name: "mixamorig_LeftHandThumb2"
+										
+											name: "mixamorig_LeftHandThumb3"
+											
+												name: "mixamorig_LeftHandThumb4"
+												
+									name: "mixamorig_LeftHandIndex1"
+									
+										name: "mixamorig_LeftHandIndex2"
+										
+											name: "mixamorig_LeftHandIndex3"
+											
+												name: "mixamorig_LeftHandIndex4"
+												
+									name: "mixamorig_LeftHandMiddle1"
+									
+										name: "mixamorig_LeftHandMiddle2"
+										
+											name: "mixamorig_LeftHandMiddle3"
+											
+												name: "mixamorig_LeftHandMiddle4"
+												
+									name: "mixamorig_LeftHandRing1"
+									
+										name: "mixamorig_LeftHandRing2"
+										
+											name: "mixamorig_LeftHandRing3"
+											
+												name: "mixamorig_LeftHandRing4"
+												
+									name: "mixamorig_LeftHandPinky1"
+									
+										name: "mixamorig_LeftHandPinky2"
+										
+											name: "mixamorig_LeftHandPinky3"
+											
+												name: "mixamorig_LeftHandPinky4"
+												
+					name: "mixamorig_RightShoulder"
+					
+						name: "mixamorig_RightArm"
+						
+							name: "mixamorig_RightForeArm"
+							
+								name: "mixamorig_RightHand"
+								
+									name: "mixamorig_RightHandThumb1"
+									
+										name: "mixamorig_RightHandThumb2"
+										
+											name: "mixamorig_RightHandThumb3"
+											
+												name: "mixamorig_RightHandThumb4"
+												
+									name: "mixamorig_RightHandIndex1"
+									
+										name: "mixamorig_RightHandIndex2"
+										
+											name: "mixamorig_RightHandIndex3"
+											
+												name: "mixamorig_RightHandIndex4"
+												
+									name: "mixamorig_RightHandMiddle1"
+									
+										name: "mixamorig_RightHandMiddle2"
+										
+											name: "mixamorig_RightHandMiddle3"
+											
+												name: "mixamorig_RightHandMiddle4"
+												
+									name: "mixamorig_RightHandRing1"
+									
+										name: "mixamorig_RightHandRing2"
+										
+											name: "mixamorig_RightHandRing3"
+											
+												name: "mixamorig_RightHandRing4"
+												
+									name: "mixamorig_RightHandPinky1"
+									
+										name: "mixamorig_RightHandPinky2"
+										
+											name: "mixamorig_RightHandPinky3"
+											
+												name: "mixamorig_RightHandPinky4"
+												
+		name: "mixamorig_LeftUpLeg"
+		
+			name: "mixamorig_LeftLeg"
+			
+				name: "mixamorig_LeftFoot"
+				
+					name: "mixamorig_LeftToeBase"
+					
+						name: "mixamorig_LeftToe_End"
+						
+		name: "mixamorig_RightUpLeg"
+		
+			name: "mixamorig_RightLeg"
+			
+				name: "mixamorig_RightFoot"
+				
+					name: "mixamorig_RightToeBase"
+					
+						name: "mixamorig_RightToe_End"
+						
+
+[15:30:36.147286] [Import] [info] (th=103394) File loaded successfully
+[15:30:36.147289] [Import] [info] (th=103394) Meshes count: 1
+[15:30:36.147291] [Import] [info] (th=103394) Materials count: 1
+[15:30:36.150891] [Import] [info] (th=103394) Importing from /Applications/MANU.app/Contents/MacOS/../Resources/Resources/defaultCharacterSlide.dae
+[15:30:36.158784] [Import] [info] (th=103394) Imported scene tree:
+name: "RootNode"
+numMeshes: 1
+ addr: "0x7fa72a161e00"
+ name: ""
+ numVertices: "417"
+ numFaces: "364"
+
+
+	name: "mixamorig_Hips"
+	
+		name: "mixamorig_Spine"
+		
+			name: "mixamorig_Spine1"
+			
+				name: "mixamorig_Spine2"
+				
+					name: "mixamorig_Neck"
+					
+						name: "mixamorig_Head"
+						
+							name: "mixamorig_HeadTop_End"
+							
+					name: "mixamorig_LeftShoulder"
+					
+						name: "mixamorig_LeftArm"
+						
+							name: "mixamorig_LeftForeArm"
+							
+								name: "mixamorig_LeftHand"
+								
+									name: "mixamorig_LeftHandThumb1"
+									
+										name: "mixamorig_LeftHandThumb2"
+										
+											name: "mixamorig_LeftHandThumb3"
+											
+												name: "mixamorig_LeftHandThumb4"
+												
+									name: "mixamorig_LeftHandIndex1"
+									
+										name: "mixamorig_LeftHandIndex2"
+										
+											name: "mixamorig_LeftHandIndex3"
+											
+												name: "mixamorig_LeftHandIndex4"
+												
+									name: "mixamorig_LeftHandMiddle1"
+									
+										name: "mixamorig_LeftHandMiddle2"
+										
+											name: "mixamorig_LeftHandMiddle3"
+											
+												name: "mixamorig_LeftHandMiddle4"
+												
+									name: "mixamorig_LeftHandRing1"
+									
+										name: "mixamorig_LeftHandRing2"
+										
+											name: "mixamorig_LeftHandRing3"
+											
+												name: "mixamorig_LeftHandRing4"
+												
+									name: "mixamorig_LeftHandPinky1"
+									
+										name: "mixamorig_LeftHandPinky2"
+										
+											name: "mixamorig_LeftHandPinky3"
+											
+												name: "mixamorig_LeftHandPinky4"
+												
+					name: "mixamorig_RightShoulder"
+					
+						name: "mixamorig_RightArm"
+						
+							name: "mixamorig_RightForeArm"
+							
+								name: "mixamorig_RightHand"
+								
+									name: "mixamorig_RightHandThumb1"
+									
+										name: "mixamorig_RightHandThumb2"
+										
+											name: "mixamorig_RightHandThumb3"
+											
+												name: "mixamorig_RightHandThumb4"
+												
+									name: "mixamorig_RightHandIndex1"
+									
+										name: "mixamorig_RightHandIndex2"
+										
+											name: "mixamorig_RightHandIndex3"
+											
+												name: "mixamorig_RightHandIndex4"
+												
+									name: "mixamorig_RightHandMiddle1"
+									
+										name: "mixamorig_RightHandMiddle2"
+										
+											name: "mixamorig_RightHandMiddle3"
+											
+												name: "mixamorig_RightHandMiddle4"
+												
+									name: "mixamorig_RightHandRing1"
+									
+										name: "mixamorig_RightHandRing2"
+										
+											name: "mixamorig_RightHandRing3"
+											
+												name: "mixamorig_RightHandRing4"
+												
+									name: "mixamorig_RightHandPinky1"
+									
+										name: "mixamorig_RightHandPinky2"
+										
+											name: "mixamorig_RightHandPinky3"
+											
+												name: "mixamorig_RightHandPinky4"
+												
+		name: "mixamorig_LeftUpLeg"
+		
+			name: "mixamorig_LeftLeg"
+			
+				name: "mixamorig_LeftFoot"
+				
+					name: "mixamorig_LeftToeBase"
+					
+						name: "mixamorig_LeftToe_End"
+						
+		name: "mixamorig_RightUpLeg"
+		
+			name: "mixamorig_RightLeg"
+			
+				name: "mixamorig_RightFoot"
+				
+					name: "mixamorig_RightToeBase"
+					
+						name: "mixamorig_RightToe_End"
+						
+
+[15:30:36.158812] [Import] [info] (th=103394) File loaded successfully
+[15:30:36.158817] [Import] [info] (th=103394) Meshes count: 1
+[15:30:36.158819] [Import] [info] (th=103394) Materials count: 1
+[15:31:03.506525] [Import] [info] (th=103394) Importing from /Users/nikolay/Documents/Models/! kenney_platformerkit/Models/Platformer Kit/blockHalf.dae
+[15:31:03.508401] [Import] [info] (th=103394) Imported scene tree:
+name: "ID2"
+
+	name: "ID15"
+	numMeshes: 2
+	 addr: "0x7fa72b541400"
+	 name: "ID7"
+	 numVertices: "20"
+	 numFaces: "10"
+	
+	 addr: "0x7fa72b652400"
+	 name: "ID7"
+	 numVertices: "76"
+	 numFaces: "58"
+	
+	
+
+[15:31:03.508417] [Import] [info] (th=103394) File loaded successfully
+[15:31:03.508419] [Import] [info] (th=103394) Meshes count: 2
+[15:31:03.508420] [Import] [info] (th=103394) Materials count: 3
+[15:31:03.508524] [Import] [info] (th=103394) Textures count (imported): 0
+[15:31:20.535130] [Import] [info] (th=103394) Importing from /Users/nikolay/Documents/Models/! kenney_platformerkit/Models/Platformer Kit/blockHexagon.dae
+[15:31:20.536414] [Import] [info] (th=103394) Imported scene tree:
+name: "ID2"
+
+	name: "ID15"
+	numMeshes: 2
+	 addr: "0x7fa72e882000"
+	 name: "ID7"
+	 numVertices: "38"
+	 numFaces: "24"
+	
+	 addr: "0x7fa72e882600"
+	 name: "ID7"
+	 numVertices: "90"
+	 numFaces: "64"
+	
+	
+
+[15:31:20.536422] [Import] [info] (th=103394) File loaded successfully
+[15:31:20.536427] [Import] [info] (th=103394) Meshes count: 2
+[15:31:20.536428] [Import] [info] (th=103394) Materials count: 3
+[15:31:20.536529] [Import] [info] (th=103394) Textures count (imported): 0
+[15:35:10.921897] [Import] [info] (th=103394) Importing from /Users/nikolay/Documents/Models/platformer-pack/platformer_pack.fbx
+[15:35:10.954876] [Import] [info] (th=103394) Imported scene tree:
+name: "RootNode"
+
+	name: "BearTrap_Closed"
+	numMeshes: 1
+	 addr: "0x7fa72dfd5e00"
+	 name: "BearTrap_Closed"
+	 numVertices: "639"
+	 numFaces: "370"
+	
+	
+	name: "BearTrap_Open"
+	numMeshes: 1
+	 addr: "0x7fa72dedf600"
+	 name: "BearTrap_Open"
+	 numVertices: "540"
+	 numFaces: "294"
+	
+	
+	name: "Bomb"
+	numMeshes: 2
+	 addr: "0x7fa72df08800"
+	 name: "Bomb"
+	 numVertices: "288"
+	 numFaces: "112"
+	
+	 addr: "0x7fa723b7fc00"
+	 name: "Bomb"
+	 numVertices: "104"
+	 numFaces: "54"
+	
+	
+	name: "Cloud1"
+	numMeshes: 1
+	 addr: "0x7fa72b71f000"
+	 name: "Cloud1"
+	 numVertices: "958"
+	 numFaces: "480"
+	
+	
+	name: "Cloud2"
+	numMeshes: 1
+	 addr: "0x7fa723a2a000"
+	 name: "Cloud2"
+	 numVertices: "952"
+	 numFaces: "480"
+	
+	
+	name: "Cloud3"
+	numMeshes: 1
+	 addr: "0x7fa72de41400"
+	 name: "Cloud3"
+	 numVertices: "1102"
+	 numFaces: "552"
+	
+	
+	name: "Cloud4"
+	numMeshes: 1
+	 addr: "0x7fa72de55c00"
+	 name: "Cloud4"
+	 numVertices: "948"
+	 numFaces: "480"
+	
+	
+	name: "Cloud5"
+	numMeshes: 1
+	 addr: "0x7fa72de66200"
+	 name: "Cloud5"
+	 numVertices: "1690"
+	 numFaces: "846"
+	
+	
+	name: "Coin"
+	numMeshes: 2
+	 addr: "0x7fa72de84400"
+	 name: "Coin"
+	 numVertices: "330"
+	 numFaces: "190"
+	
+	 addr: "0x7fa72e051c00"
+	 name: "Coin"
+	 numVertices: "20"
+	 numFaces: "16"
+	
+	
+	name: "Crate"
+	numMeshes: 2
+	 addr: "0x7fa72e064800"
+	 name: "Crate"
+	 numVertices: "864"
+	 numFaces: "504"
+	
+	 addr: "0x7fa72e078600"
+	 name: "Crate"
+	 numVertices: "326"
+	 numFaces: "228"
+	
+	
+	name: "Fence"
+	numMeshes: 1
+	 addr: "0x7fa72e085600"
+	 name: "Fence"
+	 numVertices: "368"
+	 numFaces: "212"
+	
+	
+	name: "Flag"
+	numMeshes: 2
+	 addr: "0x7fa72e092800"
+	 name: "Flag"
+	 numVertices: "84"
+	 numFaces: "44"
+	
+	 addr: "0x7fa72e09f200"
+	 name: "Flag"
+	 numVertices: "324"
+	 numFaces: "172"
+	
+	
+	name: "Grass"
+	numMeshes: 1
+	 addr: "0x7fa72e0aaa00"
+	 name: "Grass"
+	 numVertices: "672"
+	 numFaces: "336"
+	
+	
+	name: "Grass1"
+	numMeshes: 1
+	 addr: "0x7fa72e0bf000"
+	 name: "Grass1"
+	 numVertices: "368"
+	 numFaces: "184"
+	
+	
+	name: "Grass2"
+	numMeshes: 1
+	 addr: "0x7fa72e0c9600"
+	 name: "Grass2"
+	 numVertices: "456"
+	 numFaces: "228"
+	
+	
+	name: "Heart_Full"
+	numMeshes: 1
+	 addr: "0x7fa72e0dfe00"
+	 name: "Heart_Full"
+	 numVertices: "468"
+	 numFaces: "160"
+	
+	
+	name: "Heart_Half"
+	numMeshes: 1
+	 addr: "0x7fa72e0ec600"
+	 name: "Heart_Half"
+	 numVertices: "278"
+	 numFaces: "106"
+	
+	
+	name: "Key"
+	numMeshes: 1
+	 addr: "0x7fa72e0ff400"
+	 name: "Key"
+	 numVertices: "858"
+	 numFaces: "672"
+	
+	
+	name: "Ladder_long"
+	numMeshes: 1
+	 addr: "0x7fa7210c3600"
+	 name: "Ladder_long"
+	 numVertices: "788"
+	 numFaces: "608"
+	
+	
+	name: "Ladder_medium"
+	numMeshes: 1
+	 addr: "0x7fa729518600"
+	 name: "Ladder_medium"
+	 numVertices: "466"
+	 numFaces: "356"
+	
+	
+	name: "Ladder_short"
+	numMeshes: 1
+	 addr: "0x7fa72173a600"
+	 name: "Ladder_short"
+	 numVertices: "228"
+	 numFaces: "164"
+	
+	
+	name: "Lever"
+	numMeshes: 2
+	 addr: "0x7fa72953d800"
+	 name: "Lever"
+	 numVertices: "16"
+	 numFaces: "8"
+	
+	 addr: "0x7fa729543e00"
+	 name: "Lever"
+	 numVertices: "38"
+	 numFaces: "24"
+	
+	
+	name: "Lever_Base"
+	numMeshes: 1
+	 addr: "0x7fa72954e400"
+	 name: "Lever_Base"
+	 numVertices: "124"
+	 numFaces: "76"
+	
+	
+	name: "MovingPlatform"
+	numMeshes: 2
+	 addr: "0x7fa729557000"
+	 name: "MovingPlatform"
+	 numVertices: "208"
+	 numFaces: "124"
+	
+	 addr: "0x7fa729563e00"
+	 name: "MovingPlatform"
+	 numVertices: "672"
+	 numFaces: "384"
+	
+	
+	name: "MovingPlatform_Long"
+	numMeshes: 2
+	 addr: "0x7fa729577600"
+	 name: "MovingPlatform_Long"
+	 numVertices: "208"
+	 numFaces: "124"
+	
+	 addr: "0x7fa729584400"
+	 name: "MovingPlatform_Long"
+	 numVertices: "672"
+	 numFaces: "384"
+	
+	
+	name: "Mushroom"
+	numMeshes: 2
+	 addr: "0x7fa729592c00"
+	 name: "Mushroom"
+	 numVertices: "161"
+	 numFaces: "89"
+	
+	 addr: "0x7fa72959ba00"
+	 name: "Mushroom"
+	 numVertices: "105"
+	 numFaces: "49"
+	
+	
+	name: "Pipe"
+	numMeshes: 1
+	 addr: "0x7fa7295a4600"
+	 name: "Pipe"
+	 numVertices: "960"
+	 numFaces: "556"
+	
+	
+	name: "Platform_BottomLeft"
+	numMeshes: 1
+	 addr: "0x7fa7295c3000"
+	 name: "Platform_BottomLeft"
+	 numVertices: "200"
+	 numFaces: "116"
+	
+	
+	name: "Platform_BottomMiddle"
+	numMeshes: 1
+	 addr: "0x7fa7295cc400"
+	 name: "Platform_BottomMiddle"
+	 numVertices: "108"
+	 numFaces: "86"
+	
+	
+	name: "Platform_BottomRight"
+	numMeshes: 1
+	 addr: "0x7fa7295d7200"
+	 name: "Platform_BottomRight"
+	 numVertices: "200"
+	 numFaces: "116"
+	
+	
+	name: "Platform_CenterLeft"
+	numMeshes: 1
+	 addr: "0x7fa7214a1400"
+	 name: "Platform_CenterLeft"
+	 numVertices: "82"
+	 numFaces: "56"
+	
+	
+	name: "Platform_CenterMiddle"
+	numMeshes: 1
+	 addr: "0x7fa721719c00"
+	 name: "Platform_CenterMiddle"
+	 numVertices: "48"
+	 numFaces: "36"
+	
+	
+	name: "Platform_CenterRight"
+	numMeshes: 1
+	 addr: "0x7fa72e0f9e00"
+	 name: "Platform_CenterRight"
+	 numVertices: "82"
+	 numFaces: "56"
+	
+	
+	name: "Platform_TopLeft"
+	numMeshes: 2
+	 addr: "0x7fa72e117e00"
+	 name: "Platform_TopLeft"
+	 numVertices: "363"
+	 numFaces: "193"
+	
+	 addr: "0x7fa72e123000"
+	 name: "Platform_TopLeft"
+	 numVertices: "183"
+	 numFaces: "103"
+	
+	
+	name: "Platform_TopMiddle"
+	numMeshes: 2
+	 addr: "0x7fa72e12fa00"
+	 name: "Platform_TopMiddle"
+	 numVertices: "98"
+	 numFaces: "68"
+	
+	 addr: "0x7fa72e139400"
+	 name: "Platform_TopMiddle"
+	 numVertices: "190"
+	 numFaces: "138"
+	
+	
+	name: "Platform_TopRight"
+	numMeshes: 2
+	 addr: "0x7fa72e147200"
+	 name: "Platform_TopRight"
+	 numVertices: "363"
+	 numFaces: "193"
+	
+	 addr: "0x7fa72e152600"
+	 name: "Platform_TopRight"
+	 numVertices: "183"
+	 numFaces: "103"
+	
+	
+	name: "Rock1"
+	numMeshes: 1
+	 addr: "0x7fa72e15dc00"
+	 name: "Rock1"
+	 numVertices: "64"
+	 numFaces: "40"
+	
+	
+	name: "Rock2"
+	numMeshes: 1
+	 addr: "0x7fa72e167000"
+	 name: "Rock2"
+	 numVertices: "97"
+	 numFaces: "60"
+	
+	
+	name: "Rock3"
+	numMeshes: 1
+	 addr: "0x7fa72e16f400"
+	 name: "Rock3"
+	 numVertices: "48"
+	 numFaces: "24"
+	
+	
+	name: "Rock4"
+	numMeshes: 1
+	 addr: "0x7fa72e179400"
+	 name: "Rock4"
+	 numVertices: "85"
+	 numFaces: "56"
+	
+	
+	name: "Rope_Long"
+	numMeshes: 2
+	 addr: "0x7fa72e181800"
+	 name: "Rope_Long"
+	 numVertices: "720"
+	 numFaces: "364"
+	
+	 addr: "0x7fa72e193600"
+	 name: "Rope_Long"
+	 numVertices: "2112"
+	 numFaces: "1056"
+	
+	
+	name: "Rope_Short"
+	numMeshes: 2
+	 addr: "0x7fa72e1aae00"
+	 name: "Rope_Short"
+	 numVertices: "400"
+	 numFaces: "204"
+	
+	 addr: "0x7fa72e1bc200"
+	 name: "Rope_Short"
+	 numVertices: "1152"
+	 numFaces: "576"
+	
+	
+	name: "Sign_Left"
+	numMeshes: 1
+	 addr: "0x7fa72e1d0c00"
+	 name: "Sign_Left"
+	 numVertices: "172"
+	 numFaces: "116"
+	
+	
+	name: "Sign_LeftRight"
+	numMeshes: 1
+	 addr: "0x7fa72e1da000"
+	 name: "Sign_LeftRight"
+	 numVertices: "330"
+	 numFaces: "228"
+	
+	
+	name: "Sign_Right"
+	numMeshes: 1
+	 addr: "0x7fa72e1ebe00"
+	 name: "Sign_Right"
+	 numVertices: "172"
+	 numFaces: "116"
+	
+	
+	name: "Spike_Group"
+	numMeshes: 1
+	 addr: "0x7fa72e1f4800"
+	 name: "Spike_Group"
+	 numVertices: "192"
+	 numFaces: "80"
+	
+	
+	name: "Spike_Single"
+	numMeshes: 1
+	 addr: "0x7fa72e200e00"
+	 name: "Spike_Single"
+	 numVertices: "24"
+	 numFaces: "10"
+	
+	
+	name: "Spikes_Platform"
+	numMeshes: 2
+	 addr: "0x7fa72e20d800"
+	 name: "Spikes_Platform"
+	 numVertices: "328"
+	 numFaces: "402"
+	
+	 addr: "0x7fa72e21de00"
+	 name: "Spikes_Platform"
+	 numVertices: "300"
+	 numFaces: "100"
+	
+	
+	name: "Star"
+	numMeshes: 1
+	 addr: "0x7fa72e229c00"
+	 name: "Star"
+	 numVertices: "140"
+	 numFaces: "90"
+	
+	
+	name: "Tree1"
+	numMeshes: 2
+	 addr: "0x7fa72e233800"
+	 name: "Tree1"
+	 numVertices: "388"
+	 numFaces: "210"
+	
+	 addr: "0x7fa72e24d000"
+	 name: "Tree1"
+	 numVertices: "944"
+	 numFaces: "480"
+	
+	
+	name: "Tree2"
+	numMeshes: 2
+	 addr: "0x7fa72e26a800"
+	 name: "Tree2"
+	 numVertices: "682"
+	 numFaces: "370"
+	
+	 addr: "0x7fa72e271a00"
+	 name: "Tree2"
+	 numVertices: "2840"
+	 numFaces: "1440"
+	
+	
+	name: "Tree3"
+	numMeshes: 1
+	 addr: "0x7fa72e27d200"
+	 name: "Tree3"
+	 numVertices: "988"
+	 numFaces: "560"
+	
+	
+	name: "Tree4"
+	numMeshes: 2
+	 addr: "0x7fa72e298800"
+	 name: "Tree4"
+	 numVertices: "772"
+	 numFaces: "406"
+	
+	 addr: "0x7fa72e2a7600"
+	 name: "Tree4"
+	 numVertices: "1896"
+	 numFaces: "960"
+	
+	
+	name: "YellowBox"
+	numMeshes: 2
+	 addr: "0x7fa72e299a00"
+	 name: "YellowBox"
+	 numVertices: "529"
+	 numFaces: "430"
+	
+	 addr: "0x7fa72e2cfa00"
+	 name: "YellowBox"
+	 numVertices: "528"
+	 numFaces: "288"
+	
+	
+
+[15:35:10.954893] [Import] [info] (th=103394) File loaded successfully
+[15:35:10.954899] [Import] [info] (th=103394) Meshes count: 72
+[15:35:10.954900] [Import] [info] (th=103394) Materials count: 71
+[15:35:10.956933] [Import] [info] (th=103394) Textures count (imported): 0

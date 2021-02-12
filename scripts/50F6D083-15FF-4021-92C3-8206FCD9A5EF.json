@@ -1,0 +1,1 @@
+{"@class":"Script_SkyBox","id":{"uuid":"50F6D083-15FF-4021-92C3-8206FCD9A5EF"},"name":"Script_SkyBox","enableOnAwake":true,"resolution":256,"topColor":{"values":[255.0,255.0,255.0]},"mdlColor":{"values":[124.05836486816406,204.80545043945313,255.0]},"btmColor":{"values":[124.0,205.0,255.0]},"scattering":0.75}

@@ -1,0 +1,17 @@
+[18:27:02.780558] [Import] [info] (th=344461) Importing from /Users/nikolay/Documents/Models/! kenney_platformerkit/Models/Platformer Kit/heart.dae
+[18:27:02.796073] [Import] [info] (th=344461) Imported scene tree:
+name: "ID2"
+
+	name: "ID13"
+	numMeshes: 1
+	 addr: "0x7fdd9aadda00"
+	 name: "ID5"
+	 numVertices: "88"
+	 numFaces: "50"
+	
+	
+
+[18:27:02.796082] [Import] [info] (th=344461) File loaded successfully
+[18:27:02.796088] [Import] [info] (th=344461) Meshes count: 1
+[18:27:02.796093] [Import] [info] (th=344461) Materials count: 2
+[18:27:02.797847] [Import] [info] (th=344461) Textures count (imported): 0

@@ -1,0 +1,1 @@
+{"@class":"PhysicsBody","id":{"uuid":"A8A6B841-B850-4204-ACD9-C550095F74A4"},"physBodyType":"static","physSurfaceType":"defaultSurfaceType","mass":10.0,"friction":1.0,"bounciness":0.5,"lockPositionX":false,"lockPositionY":false,"lockPositionZ":false,"lockRotationX":false,"lockRotationY":false,"lockRotationZ":false,"gravity":{"values":[0.0,0.0,0.0]},"useCustomGravity":false}
